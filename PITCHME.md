@@ -7,11 +7,11 @@
 
 +++
 
-:blue_heart:
+Edto :blue_heart: no rdadi
 +++
 KDJJDJD
 
-LDKDKKKDLD  
+LDKDKKKDLD  : clock1:
 
 +++
 
