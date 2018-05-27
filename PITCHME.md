@@ -4,6 +4,12 @@ KDJJDJD
 
 LDKDKKKDLD  
 
++++
+
+Aver si
+
+Va...
+
 ,DKL,L
 
 ---
