@@ -33,4 +33,4 @@ si  no...
 ### ni idea
 
 
-[]!(https://img.swipeusercontent.com/400/o/xpBhrxBPphPl7pPNQnrHflpznLxkJ6Wksd50tC0DFRxZRC.jpg)
+![](https://img.swipeusercontent.com/400/o/xpBhrxBPphPl7pPNQnrHflpznLxkJ6Wksd50tC0DFRxZRC.jpg)
