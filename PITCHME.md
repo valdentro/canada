@@ -1,6 +1,6 @@
 # CANADA
 
-@ul
+@ul[squares]
 - esto
 - lo otro
 @ulend
