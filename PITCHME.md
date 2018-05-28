@@ -11,15 +11,14 @@
 
 +++
 
-Edto :blue_heart: no rdadi
+\xF0\x9F\x98\x81
 
 
 +++
-KDJJDJD
 
-LDKDKKKDLD  
+---?color=#74992e
 
-:clock1:
+## este color
 
 +++
 
