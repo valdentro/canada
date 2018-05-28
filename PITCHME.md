@@ -1,8 +1,12 @@
-# CANADA
+# VIAJE A CANADA Y ESTADOS UNIDOS
+
+---
 
 @ul[squares]
+
 - esto
 - lo otro
+
 @ulend
 
 +++
