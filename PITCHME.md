@@ -13,7 +13,7 @@
 
 +++
 
-![](../image1.jpg)
+---?image=image.jpg
 
 
 +++
@@ -47,3 +47,4 @@ si  no...
 
 
 ![](https://img.swipeusercontent.com/400/o/xpBhrxBPphPl7pPNQnrHflpznLxkJ6Wksd50tC0DFRxZRC.jpg)
+k
