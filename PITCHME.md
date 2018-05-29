@@ -26,7 +26,7 @@
 
 ## este color
 
-![](image.jpg)
+<img src="image.jpg" width="20%">
 
 +++?color=#74992e
 
