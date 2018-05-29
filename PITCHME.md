@@ -13,7 +13,7 @@
 
 +++
 
----?image=image.jpg
+---?image=image.jpg&size= auto 80%
 
 
 +++
