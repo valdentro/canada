@@ -13,7 +13,9 @@
 
 +++
 
----?image=image.jpg&size= auto 80%
+aquí habrá que poner algo, no?
+
+---?image=image.jpg&size= auto 90%
 
 @ul
 - uno
@@ -22,11 +24,13 @@
 
 +++
 
+porque esto lo merece...
+
 ---?color=#74992e
 
 ## este color
 
-<img src="image.jpg" width="20%">
+<img src="image.jpg" width="50%”>
 
 +++?color=#74992e
 
@@ -34,9 +38,6 @@ Aver si
 
 Va...
 
-+++
-
-,DKL,L
 
 ---
 # PARIS
@@ -53,4 +54,3 @@ si  no...
 
 
 ![](https://img.swipeusercontent.com/400/o/xpBhrxBPphPl7pPNQnrHflpznLxkJ6Wksd50tC0DFRxZRC.jpg)
-k
