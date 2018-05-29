@@ -3,6 +3,7 @@
 ## desde el iPad de RA
 
 ---
+Esto es lo que quiero decir...
 
 @ul[roman]
 
@@ -16,6 +17,8 @@
 aquí habrá que poner algo, no?
 
 ---?image=image.jpg&size= auto 90%
+
+## MAS LISTAS
 
 @ul
 - uno
@@ -44,7 +47,7 @@ Va...
 
 ## esto
 
-es asi porque
+es así porque
 
 si  no...
 
