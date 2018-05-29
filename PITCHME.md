@@ -30,7 +30,7 @@ porque esto lo merece...
 
 ## este color
 
-<img src="image.jpg" width="50%”>
+<img src="image.jpg" width="50%">
 
 +++?color=#74992e
 
