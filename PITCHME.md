@@ -15,14 +15,18 @@
 
 ---?image=image.jpg&size= auto 80%
 
+@ul
 - uno
 - dos
+@ulend
 
 +++
 
 ---?color=#74992e
 
 ## este color
+
+![](image.jpg)
 
 +++?color=#74992e
 
