@@ -54,6 +54,4 @@ si  no...
 ---
 
 ### ni idea
-
-
 ![](https://github.com/valdentro/canada/blob/master/anatomia_externa_blanco_2.png)
