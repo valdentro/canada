@@ -17,7 +17,7 @@ Esto es lo que quiero decir...
 
 aquí habrá que poner algo, no?
 
----?image=image.jpg&size= auto 90%
+---
 
 # Vancouver
 Ya estamos en Vncv...
@@ -55,7 +55,7 @@ es así porque
 
 si  no...
 
----
+---?image=image.jpg&size= auto 90%
 
 ### ni idea
 ![](https://github.com/valdentro/canada/blob/master/anatomia_externa_blanco_2.png)
