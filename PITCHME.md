@@ -22,7 +22,8 @@ aquí habrá que poner algo, no?
 # Vancouver
 Ya estamos en Vncv...
 +++
-Lo que más nos ha gustado...
+Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza clásica de la literatura del Latin, que data del año 45 antes de Cristo, haciendo que este adquiera mas de 2000 años de antiguedad.
++++
 @ul
 - uno
 - dos
