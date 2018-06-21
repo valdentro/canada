@@ -58,4 +58,6 @@ si  no...
 ---?image=image.jpg&size= auto 90%
 
 ### ni idea
-![](https://github.com/valdentro/canada/blob/master/anatomia_externa_blanco_2.png)
+
+(https://instagram.com/p/BjFq9rbhI5y/)
+
