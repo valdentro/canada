@@ -3,7 +3,7 @@
 ## desde el iPad de RA
 
 ---
-# EL TÍTULO QUE SALGA EN EL ÍNDICE VA CON UNA ALMOHADILLA
+# la previa
 Esto es lo que quiero decir...
 
 @ul[roman]
@@ -19,8 +19,10 @@ aquí habrá que poner algo, no?
 
 ---?image=image.jpg&size= auto 90%
 
-## MAS LISTAS
-
+# Vancouver
+Ya estamos en Vncv...
++++
+Lo que más nos ha gustado...
 @ul
 - uno
 - dos
