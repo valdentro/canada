@@ -3,6 +3,7 @@
 ## desde el iPad de RA
 
 ---
+# EL TÍTULO QUE SALGA EN EL ÍNDICE VA CON UNA ALMOHADILLA
 Esto es lo que quiero decir...
 
 @ul[roman]
